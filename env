@@ -1,0 +1,7 @@
+SC_DIR=/mountdir
+SC_SCV_DELIMITER=,
+SC_DB_NAME=/mountdir/my.db
+SC_PRINT_DB_TRANSACTIONS=NO
+SC_MAIL_FROM=test.storicard@gmail.com
+SC_MAIL_TO=test.storicard@gmail.com
+SC_MAIL_PWD=JCRStoriCard2022
