@@ -64,7 +64,7 @@ You have 2 ways to run the app
 ## Screen Shots
 ![image](https://user-images.githubusercontent.com/106209282/170161209-74daefff-8125-4fd8-823f-2bd9c4d2abe9.png)
 ![image](https://user-images.githubusercontent.com/106209282/170161288-d1379a0d-7c98-4bc7-8610-d942c56f6a09.png)
-![image](https://user-images.githubusercontent.com/106209282/170161356-6f9fe9d6-cbc2-4d3b-9060-b688584c31ee.png)
+![image](https://user-images.githubusercontent.com/106209282/170161469-f67b083e-24f1-49b5-afe0-b4ea61036273.png)
 
 
 
